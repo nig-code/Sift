@@ -37,3 +37,6 @@ Something that I personally like to do, is to press **CTRL + F** and put in stuf
 Woopsie - ![image](https://user-images.githubusercontent.com/77595905/109566813-b3a50280-7ae4-11eb-910d-601184155295.png)
 This would indicate that I'd finish my job as a taxi-driver, and that I'd get paid for what I did(**n't**) do.
 
+
+Now, go ahead and paste the found trigger, in my case that would be **TriggerServerEvent('esx_taxijob:success')**, into our executor, and press "**Run**.
+Welp, now I got paid!
