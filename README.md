@@ -1,6 +1,6 @@
 
 # Sift for TriggerServerEvents and Strings
-
+all rights served for original creator, which is not me.
 
 The filtering-tool "Sift" helps you search and find Triggers that can be exploited, once you have dumped the desired FiveM-Server.
 
