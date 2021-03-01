@@ -1,1 +1,1 @@
-# Sift-Filter-TriggerEvents-
+# Sift for TriggerServerEvents and Strings
