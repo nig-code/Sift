@@ -13,7 +13,7 @@ The filtering-tool "Sift" helps you search and find Triggers that can be exploit
 Once you've dumped the server, by pressing **Save to Folder**, you are able to see the dump-folder on your c-drive. // **C:\dmps\**
 The name of the server, is the same name that you entered in the executor.
 
-Drag the files from the **Sift.rar** into **C:\dmps\SERVERNAME**
+Drag the files from the **Sift.rar (sift.exe and sift.bat) ** into **C:\dmps\SERVERNAME**
 
 Now, go ahead and open the **Sift.bat** and you should be able to see, something like this picture.
 ![Screenshot_3](https://user-images.githubusercontent.com/77595905/109566294-f5817900-7ae3-11eb-837f-fb247f14b931.png)
